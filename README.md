@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-* 🌍  I'm based in Brighton
+* 🌍  I'm based in Brighton, United Kingdom
 * ✉️  You can contact me at [ssibrahim247@gmail.com](mailto:ssibrahim247@gmail.com)
 
 ### Skills
